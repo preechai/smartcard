@@ -28,7 +28,7 @@ PyMySQL==0.9.3
 pyscard==1.9.9
 python-resize-image==1.1.19
 pywin32-ctypes==0.2.0
-requests==2.23.0
+requests==2.31.0
 six==1.14.0
 typed-ast==1.4.1
 urllib3==1.25.9
