@@ -18,7 +18,7 @@ mccabe==0.6.1
 mysql==0.0.2
 mysql-connector==2.2.9
 mysqlclient==1.4.6
-numpy==1.18.3
+numpy==1.22.0
 openpyxl==3.0.3
 pefile==2019.4.18
 Pillow==7.1.2
